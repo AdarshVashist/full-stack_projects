@@ -37,7 +37,7 @@ I hope now it is clear how to use the list. If any questions let me know.
 - I can trade my book with the book I want.
 - I can give rating to the users I traded the book with.
 
-# Travel Log
+# Travel Log 
 
 ## User Story
 
