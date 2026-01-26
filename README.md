@@ -49,7 +49,7 @@ I hope now it is clear how to use the list. If any questions let me know.
 
 # Personal Developer Blog
 
-## User Story
+## User Story 
 
 - I can see blog posts.
 - I can see comments on a post.
